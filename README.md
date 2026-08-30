@@ -2,7 +2,10 @@
 
 HTML files for error pages
 
-## Add to `.htaccess`
+## Usage
+
+1. Upload the `/src/error` directory to the target website.
+2. Add to `.htaccess`
 
 ```apache
 # Error pages
